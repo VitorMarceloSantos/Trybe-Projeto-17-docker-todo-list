@@ -18,3 +18,7 @@
 <div>
   <h3>Nota Final: 100%</h3>
 </div>
+
+##
+<h3>Galeria:</h3>
+<img src="https://raw.githubusercontent.com/VitorMarceloSantos/Trybe-Projeto-17-docker-todo-list/main/resultado..png" title="Projeto - 15" alt="J"/><br/>
